@@ -67,4 +67,4 @@ For Further animation please visit [Animate CSS](https://daneden.github.io/anima
 
 ## License
 
-License under the [MIT License](License).
+License under the [MIT License](https://github.com/hakikz/Bootstrap-4-Carousel/blob/master/LICENSE).
