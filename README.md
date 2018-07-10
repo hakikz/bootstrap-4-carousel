@@ -37,7 +37,7 @@ Here is the code and change it as you need. For further help you can mail me her
 $(document).ready(function(){
             
     $(".carousel-item").addClass('animated slideInUp');
-    //"slideInDown" also be used here to Top to Bottom Carousel
+    //"slideInDown" can be used here to make a Top to Bottom Carousel
     
 });
 
