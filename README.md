@@ -42,7 +42,7 @@ $(document).ready(function(){
 });
 
 ```
-For Further animation please visit [Animate CSS](https://daneden.github.io/animate.css/)
+For more animation please visit [Animate CSS](https://daneden.github.io/animate.css/)
 
 
 ## Demo 5 (slider-testimonial)
