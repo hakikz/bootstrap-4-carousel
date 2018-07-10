@@ -1,0 +1,37 @@
+.carousel-caption{
+    bottom: 90px;
+}
+
+.carousel-indicators {
+	li{
+        width: 70px;
+        height: 36px;
+        border: 1px solid #222;
+    }
+    .active{
+        border: 1px solid rgb(255, 116, 116);
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+    .carousel-indicators{
+        position: relative !important;
+        bottom: 0;
+    }
+    .carousel-caption {
+        bottom: 0px;
+        top: 80px;
+        
+        h5{
+            font-size: 12px;
+            font-weight: bold;
+        }
+        p{
+            font-size: 10px;
+        }
+    }
+    .carousel-title{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+}

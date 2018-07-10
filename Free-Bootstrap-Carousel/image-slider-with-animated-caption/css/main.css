@@ -1,0 +1,29 @@
+.carousel-caption {
+  bottom: 90px; }
+
+.carousel-indicators li {
+  width: 70px;
+  height: 36px;
+  border: 1px solid #222; }
+.carousel-indicators .active {
+  border: 1px solid #ff7474; }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .carousel-indicators {
+    position: relative !important;
+    bottom: 0; }
+
+  .carousel-caption {
+    bottom: 0px;
+    top: 80px; }
+    .carousel-caption h5 {
+      font-size: 12px;
+      font-weight: bold; }
+    .carousel-caption p {
+      font-size: 10px; }
+
+  .carousel-title {
+    font-size: 18px;
+    margin-top: 20px; } }
+
+/*# sourceMappingURL=main.css.map */

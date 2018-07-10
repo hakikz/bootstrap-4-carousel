@@ -1,0 +1,24 @@
+.button-placement {
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
+  text-align: right; }
+
+.carousel-item .product-block {
+  border: 1px solid #222;
+  padding: 0px;
+  text-align: center; }
+  .carousel-item .product-block h4 {
+    text-align: center; }
+  .carousel-item .product-block a {
+    margin: 0 0 20px; }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .carousel-item .product-block {
+    margin: 0 15px; }
+
+  .carousel-title {
+    font-size: 18px;
+    margin-top: 20px; } }
+
+/*# sourceMappingURL=main.css.map */

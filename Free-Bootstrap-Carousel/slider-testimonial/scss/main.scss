@@ -1,0 +1,38 @@
+#carouselExample{
+    text-align: center;
+
+    .carousel-item{
+        transition: 1s linear;
+    }
+
+    .blockquote {
+        font-style: italic;
+        font-weight: bold;
+    }
+    small{
+        text-align: right;
+    }
+
+    i{
+        color: #222;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+    .carousel-title{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    #carouselExample{
+        .blockquote {
+            font-size: 15px;
+            text-align: center;
+            margin: 20px 0;
+        }
+        small {
+            text-align: center;
+            display: block;
+        }
+
+    } 
+}

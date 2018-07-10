@@ -1,0 +1,56 @@
+.left-img{
+    width: 100%;
+}
+.carousel-item{
+    transition: 1s linear;
+}
+.carousel-indicators{
+
+    position: relative !important;
+    bottom: 0;
+    width: 100%;
+    display: block;
+    top: 80px;
+
+    li {
+        background-color: #222 !important;
+        cursor: pointer;
+        border-radius: 50%;
+        height: 15px;
+        width: 15px;
+        margin: 0 0 25px;
+    }
+
+    .active{
+        opacity: 0.5;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+
+    .carousel-inner{
+        
+        padding: 30px 5px 0px 5px;
+
+        .fas {
+            font-size: 2em;
+        }
+        p{
+            font-size: 14px;
+        }
+    }
+    .carousel-title{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+
+    .carousel-indicators{
+        top: 20px;
+        display: flex;
+        width: auto;
+
+        li{
+            margin: 0 5px 0px;
+        }
+    }
+}

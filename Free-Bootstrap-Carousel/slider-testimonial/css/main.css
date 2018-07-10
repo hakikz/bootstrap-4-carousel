@@ -1,0 +1,26 @@
+#carouselExample {
+  text-align: center; }
+  #carouselExample .carousel-item {
+    transition: 1s linear; }
+  #carouselExample .blockquote {
+    font-style: italic;
+    font-weight: bold; }
+  #carouselExample small {
+    text-align: right; }
+  #carouselExample i {
+    color: #222; }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .carousel-title {
+    font-size: 18px;
+    margin-top: 20px; }
+
+  #carouselExample .blockquote {
+    font-size: 15px;
+    text-align: center;
+    margin: 20px 0; }
+  #carouselExample small {
+    text-align: center;
+    display: block; } }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,24 @@
+.carousel-indicators {
+  position: relative !important;
+  bottom: 0;
+  top: 30px; }
+  .carousel-indicators li {
+    width: 80px; }
+    .carousel-indicators li img {
+      cursor: pointer; }
+  .carousel-indicators .active {
+    opacity: 0.5; }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .carousel-inner p {
+    font-size: 14px;
+    margin: 20px 0; }
+  .carousel-inner button {
+    display: block;
+    margin: 0 auto; }
+
+  .carousel-title {
+    font-size: 18px;
+    margin-top: 20px; } }
+
+/*# sourceMappingURL=main.css.map */
