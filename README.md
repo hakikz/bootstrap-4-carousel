@@ -1,9 +1,9 @@
 # Free-Bootstrap-4-Carousel
 Free Carousel or Slider Based On Bootstrap 4
 
-- These are a fully responsive Carousel or Slider. Based on Bootstrap 4 framework. Highly customizable and easy to use.
+- These are a fully responsive Carousels or Sliders. Based on Bootstrap 4 framework. Highly customizable and easy to use.
 
-- These carousel or slider are fully made of [Bootstrap 4](https://getbootstrap.com/) and [Animate CSS](https://daneden.github.io/animate.css/)
+- These carousels or sliders are fully made of [Bootstrap 4](https://getbootstrap.com/) and [Animate CSS](https://daneden.github.io/animate.css/)
 
 Here is the list of all types of carousel/ slider
 
