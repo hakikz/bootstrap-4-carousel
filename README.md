@@ -60,7 +60,7 @@ For Further animation please visit [Animate CSS](https://daneden.github.io/anima
 ![alt text](https://github.com/hakikz/Free-Bootstrap-4-Carousel/blob/master/Dist/img/slider-with-image-text-and-button.jpg)
 
 
-## Contributor
+## Contributors
 
 - Hakik Zaman <hakikz@yahoo.com>
 - [Ideal Web Guru](http://idealwebguru.com/)
