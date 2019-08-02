@@ -52,7 +52,7 @@ For more animation please visit [Animate CSS](https://daneden.github.io/animate.
 
 ## Demo 5.1 (Slider-testimonial2)
 
-![alt text](https://github.com/hakikz/Free-Bootstrap-4-Carousel/blob/master/Dist/img/slider-testimonial2.png)
+![alt text](https://github.com/hakikz/Free-Bootstrap-4-Carousel/blob/master/Dist/img/slider-testimonial2.jpg)
 
 
 ## Demo 6 (slider-with-image-indicator)
